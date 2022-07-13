@@ -1,4 +1,4 @@
-'use strict'
+'use strict';
 // 1
 // const a = +prompt('Введите число');
 // a === 0 ? alert('Верно') : alert('Неверно');
